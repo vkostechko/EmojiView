@@ -13,6 +13,7 @@
 		2F7B52561F44A16E003D5207 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F7B52551F44A16E003D5207 /* Assets.xcassets */; };
 		2F7B52591F44A16E003D5207 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F7B52571F44A16E003D5207 /* LaunchScreen.storyboard */; };
 		2F7B525C1F44A16E003D5207 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F7B525B1F44A16E003D5207 /* main.m */; };
+		2F896CA31F4735A0000B2C83 /* ISEmojiList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F896CA21F47359F000B2C83 /* ISEmojiList.plist */; };
 		A55834A093CECE92E894F816 /* Pods_EmojiView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC150900BFA4C263C267753C /* Pods_EmojiView.framework */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 		2F7B52581F44A16E003D5207 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F7B525A1F44A16E003D5207 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F7B525B1F44A16E003D5207 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2F896CA21F47359F000B2C83 /* ISEmojiList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ISEmojiList.plist; sourceTree = "<group>"; };
 		613886F2B734EEA5253BE985 /* Pods-EmojiView.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmojiView.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EmojiView/Pods-EmojiView.debug.xcconfig"; sourceTree = "<group>"; };
 		7EEF067ACF5364904ED53D0F /* Pods-EmojiView.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EmojiView.release.xcconfig"; path = "Pods/Target Support Files/Pods-EmojiView/Pods-EmojiView.release.xcconfig"; sourceTree = "<group>"; };
 		FC150900BFA4C263C267753C /* Pods_EmojiView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EmojiView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,6 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				2F7B524C1F44A16E003D5207 /* AppDelegate.h */,
+				2F896CA21F47359F000B2C83 /* ISEmojiList.plist */,
 				2F7B524D1F44A16E003D5207 /* AppDelegate.m */,
 				2F7B524F1F44A16E003D5207 /* ViewController.h */,
 				2F7B52501F44A16E003D5207 /* ViewController.m */,
@@ -158,6 +161,7 @@
 				2F7B52591F44A16E003D5207 /* LaunchScreen.storyboard in Resources */,
 				2F7B52561F44A16E003D5207 /* Assets.xcassets in Resources */,
 				2F7B52541F44A16E003D5207 /* Main.storyboard in Resources */,
+				2F896CA31F4735A0000B2C83 /* ISEmojiList.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -4,6 +4,6 @@ platform :ios, '9.0'
 target 'EmojiView' do
   	use_frameworks!
 
-	pod 'ISEmojiView', :path => '../ISEmojiView/'
+	pod 'ISEmojiView', :path => '../../ISEmojiView/'
 
 end
